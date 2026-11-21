@@ -1,0 +1,9 @@
+# VELMARA, a travel poster for a town that does not exist
+
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/dunoil/makefun-poster-velmara/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/dunoil/makefun-poster-velmara/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+
+Velmara is an invented cliffside village of small white houses with terracotta roofs, stacked on a dark teal headland above a turquoise bay. A single red and white striped lighthouse stands on the rocky point, a large low sun rises behind the far headland at dawn, and two small sailboats cross the water. The name VELMARA, set in large cream serif capitals across the dawn sky, is the only text in the picture, and the palette of coral, apricot and gold against teal and turquoise leads the eye from the name down to the lighthouse and out to the horizon.
+
+The poster is drawn by build_poster.py with PIL in a flat vintage travel poster style: flat sky bands, layered headland silhouettes and simple geometric shapes, rendered at twice the final size and downscaled, then finished with seeded paper grain, a soft vignette and a 256 colour palette. The finished poster.png measures 896 by 1024 pixels and 570,778 bytes. Running main.ts copies it to /output/entry.png for grading.
